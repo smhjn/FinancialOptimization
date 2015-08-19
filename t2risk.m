@@ -1,7 +1,7 @@
 % Constructing an Optimal Portfolio using Scenario based Markowitz and Mean
 % Absolute Deviation model and there by computing the Value at Risk and 
 % Conditional Value at Risk both at 95% confidence levels.
-%                                           (C)Pavan Kumar Narayanan
+%                                           (C)Pavan Narayn
 % INPUT
 % Raw Matrix loaded from 'Indices.Mat' File - Mandatory file for the
 % program to produce results.
