@@ -1,7 +1,7 @@
 % Portfolio Optimizaion using Mean Absolute Deviation model and calculation
 % of Value at Risk and Conditional Value at Risk at 95% confidence Interval
 % based on the optimal weights of portfolio from MAD model
-%                                             Author: Pavan Kumar Narayanan
+%                                             Author: Pavan Narayn
 function [x] = t1mad(x)
 
 % INPUT: Matrix of columns taken from main returns matrix
